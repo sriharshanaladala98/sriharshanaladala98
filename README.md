@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriharshanaladala&label=Profile%20views&color=0e75b6&style=flat" alt="sriharshanaladala" /> </p>
 
-- 🔭 I’m currently working on [ecommerce web site](https://github.com/sriharshanaladala/best-choice-for-the-best)
+- 🔭 I’m currently working on [finance management application]
 
-- 🌱 I’m currently learning **Python, Django frame works,**
-
-- 👯 I’m looking to collaborate on [https://github.com/sriharshanaladala/best-choice-for-the-best](https://github.com/sriharshanaladala/best-choice-for-the-best)
+- 🌱 I’m currently learning **AI,ML,NodeJs,ExpressJs,**
 
 - 💬 Ask me about **Html, CSS, JavaScript**
 
